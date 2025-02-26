@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Gotham Black';
+    src: url('Gotham-Black.woff2') format('woff2'),
+         url('Gotham-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Gotham Black', Arial, sans-serif;
+}
